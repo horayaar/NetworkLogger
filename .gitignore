@@ -1,0 +1,27 @@
+# Ignore packet capture files
+*.pcap
+
+# Ignore SSL key file
+sslkey
+
+# Ignore log files
+*.log
+
+# Ignore temp/backup files
+*.bak
+*.tmp
+*~
+
+# Ignore shell editor swap files
+*.swp
+
+# Ignore system files (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+
+# Ignore environment or secret config files
+.env
