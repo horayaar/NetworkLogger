@@ -24,8 +24,8 @@ sudo apt install tcpdump firefox
 ```
 ## USAGE
 ```
-chmod +x networklogger.sh
-./networklogger.sh
+chmod +x watcher.sh
+./watcher.sh
 ```
 > [!Note]
 >The script must be run in a desktop environment (Firefox will open) and with `sudo` privileges (for `tcpdump`).
