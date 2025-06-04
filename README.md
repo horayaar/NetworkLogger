@@ -3,7 +3,7 @@ A simple Bash-based network logging tool that captures network traffic from a sp
 
 ## Features
 - Automatically launches Firefox.
-- Captures packets to/from `apod.nasa.gov`.
+- Captures packets to/from different websites.
 - Saves captured traffic to `.pcap` files.
 - Rotates files every 600 seconds or when file size exceeds 1MB.
 - Logs SSL session keys for decryption using Wireshark or other tools.
